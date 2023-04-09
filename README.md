@@ -13,7 +13,7 @@
 
 #### Desenvolvedores:
 
-* Trainee 1
+* Breno
 * Trainee 2
 * Trainee 3
 * Trainee 4
